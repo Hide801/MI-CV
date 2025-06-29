@@ -1,7 +1,4 @@
-# Data-Science-Python-UP
-This is a course of Data Science with Python for UG at UP
+# MI CV
+Esta es el repositorio de mi cv donde subiré algunos trabajos realizados
 
-#Lista de estudiantes
-
-
-Hide
+Si quieres más información sobre mí consulta el siguiente link: 
